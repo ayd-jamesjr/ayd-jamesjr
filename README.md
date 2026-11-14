@@ -4,27 +4,34 @@
 
 I build practical digital solutions that combine user-friendly interfaces, backend functionality, and reliable data management.
 
-My work includes personal software projects, business websites, and fellowship-focused digital platforms. I'm also exploring AI-powered applications and ways to turn ideas into useful products.
+My work spans personal software products, business and technology projects, and fellowship-focused digital platforms. I'm also exploring AI-powered applications and ways to turn ideas into useful products.
 
 ## 🛠️ Technologies & Tools
 
 - **Languages:** PHP, JavaScript, HTML, CSS
-- **Backend:** Node.js, Express, PHP
+- **Backend:** PHP, Node.js, Express
 - **Databases:** TiDB Cloud, MySQL
 - **Tools:** Git, GitHub, Docker, Visual Studio Code
 - **Deployment:** Render
 
-## 🚀 Featured Projects
+## 🚀 Project Portfolio
 
-### Grandis / Greatness
-- **Grandis TiDB Website** — A PHP and TiDB Cloud website project.
+### 🏢 Grandis / Greatness
 
-### Personal Projects
-- **Devcard** — A developer portfolio application.
-- **Inzozi Café** — A café website project.
+- [**Grandis TiDB Website**](https://github.com/ayd-jamesjr/grandis-tidb-website) — A business website project built with PHP and TiDB Cloud.
 
-### Fellowship & Community
-- **Kingdom Crew** — A digital platform for a fellowship community.
+### 💻 Personal Projects
+
+- [**Devcard**](https://github.com/ayd-jamesjr/devcard) — A PHP-based developer portfolio application.
+- [**Inzozi Café**](https://github.com/ayd-jamesjr/inzozi-cafe) — A responsive café website concept built with HTML, CSS, and JavaScript.
+
+### 🤝 Fellowship & Community
+
+- [**Kingdom Crew**](https://github.com/ayd-jamesjr/kingdom-crew) — A digital platform for the Kingdom Crew fellowship community at UNILAK Rwamagana Campus.
+
+### 🔒 Client Projects
+
+I also work on client-focused digital solutions. Client repositories and project details are kept private where confidentiality is required. Public case studies will be shared only when permission is available.
 
 ## 🎯 Current Focus
 
