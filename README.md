@@ -1,10 +1,10 @@
 # Hi, I'm James A. Dogbey, Jr. 👋
 
-### Software Developer · Digital Product Builder · Entrepreneur
+### Software Developer · Digital Product Builder · Entrepreneur · AI Enthusiast · Full-Stack Developer · MVP Builder for Startup Founders · Founder @ Grandis AI
 
 I design and build practical digital products, responsive websites and database-driven applications. My work brings together frontend experience, backend development, data management and deployment workflows—with a growing focus on AI-enabled products and scalable business systems.
 
-I'm building my technical portfolio while developing ventures with a long-term ambition to create useful products, strong businesses and enduring value through the **Grandis / Greatness** vision.
+I'm building my technical portfolio while developing ventures with a long-term ambition to create useful products, strong businesses and enduring value through **Grandis AI** and the wider **Grandis / Greatness** vision. As a founder and MVP builder, I’m interested in helping startup founders turn ideas into practical, testable digital products.
 
 - 🌍 Based in Rwanda; studying at **UNILAK**, with expected graduation in **September 2028**.
 - 💻 Interested in freelance software development, web applications, business websites and database-backed systems.
