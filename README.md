@@ -1,50 +1,98 @@
 # Hi, I'm James A. Dogbey, Jr. 👋
 
-### Software Developer | Web Applications | Database-Driven Solutions
+### Software Developer · Digital Product Builder · Entrepreneur
 
-I build practical digital solutions that combine user-friendly interfaces, backend functionality, and reliable data management.
+I design and build practical digital products, responsive websites and database-driven applications. My work brings together frontend experience, backend development, data management and deployment workflows—with a growing focus on AI-enabled products and scalable business systems.
 
-My work spans personal software products, business and technology projects, and fellowship-focused digital platforms. I'm also exploring AI-powered applications and ways to turn ideas into useful products.
+I'm building my technical portfolio while developing ventures with a long-term ambition to create useful products, strong businesses and enduring value through the **Grandis / Greatness** vision.
 
-## 🛠️ Technologies & Tools
-
-- **Languages:** PHP, JavaScript, HTML, CSS
-- **Backend:** PHP, Node.js, Express
-- **Databases:** TiDB Cloud, MySQL
-- **Tools:** Git, GitHub, Docker, Visual Studio Code
-- **Deployment:** Render
-
-## 🚀 Project Portfolio
-
-### 🏢 Grandis / Greatness
-
-- [**Grandis TiDB Website**](https://github.com/ayd-jamesjr/grandis-tidb-website) — A business website project built with PHP and TiDB Cloud.
-
-### 💻 Personal Projects
-
-- [**Devcard**](https://github.com/ayd-jamesjr/devcard) — A PHP-based developer portfolio application.
-- [**Inzozi Café**](https://github.com/ayd-jamesjr/inzozi-cafe) — A responsive café website concept built with HTML, CSS, and JavaScript.
-
-### 🤝 Fellowship & Community
-
-- [**Kingdom Crew**](https://github.com/ayd-jamesjr/kingdom-crew) — A digital platform for the Kingdom Crew fellowship community at UNILAK Rwamagana Campus.
-
-### 🔒 Client Projects
-
-I also work on client-focused digital solutions. Client repositories and project details are kept private where confidentiality is required. Public case studies will be shared only when permission is available.
-
-## 🎯 Current Focus
-
-- Building practical web applications.
-- Developing database-connected systems.
-- Exploring AI-powered software solutions.
-- Improving software architecture, testing, and deployment.
-- Turning ideas into useful digital products.
-
-## 🤝 Collaboration
-
-I'm interested in meaningful collaborations, software development opportunities, and technology projects that solve real problems.
+- 🌍 Based in Rwanda; studying at **UNILAK**, with expected graduation in **September 2028**.
+- 💻 Interested in freelance software development, web applications, business websites and database-backed systems.
+- 🚀 Building and documenting real projects from concept through implementation and deployment.
+- 🤝 Open to remote freelance opportunities, collaborations and practical software projects.
 
 ---
 
-*Building. Learning. Creating. Evolving.*
+## 🧰 Technical toolkit
+
+| Area | Technologies and tools |
+|---|---|
+| Frontend | HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS |
+| Backend | PHP, Node.js, Express, Next.js API routes |
+| Databases | MySQL, TiDB Cloud, SQL |
+| AI integration | Groq API, server-side LLM integration |
+| Tools & workflow | Git, GitHub, Visual Studio Code, Docker, npm |
+| Deployment | Render; environment-based application configuration |
+
+*Technologies are listed in the context of projects and hands-on work. I continue to deepen my engineering, testing, security and production operations skills.*
+
+## 🚀 Featured projects
+
+### 🏢 Business ventures & product development
+
+#### [Ascend Education Partners Ltd — Website & Digital Platform](https://github.com/ayd-jamesjr/ascend-education-partners)
+**Next.js · React · TypeScript · Tailwind CSS · TiDB Cloud · Groq API · Render**
+
+A responsive website and early digital platform for a Rwanda-based international education consultancy serving students and families from Liberia and across Africa.
+
+- Built a multi-page public website covering services, study in Rwanda, universities, FAQs, company information and contact.
+- Implemented a validated enquiry form with server-side validation, spam honeypot and rate limiting, backed by TiDB.
+- Integrated an AI education-guidance assistant using a server-side Groq API connection and approved company/university information.
+- Developed a starter staff login and admin dashboard for enquiry and university-draft workflows.
+- Added responsive layouts, branded UI, metadata, sitemap, security headers, database migrations and Render deployment configuration.
+- Created privacy and terms pages as a foundation for a formal compliance review.
+
+**Project stage:** Working foundation with production deployment and operational compliance checks to be verified. Student portal, full application tracking, document uploads and other roadmap modules are not represented as completed features.
+
+#### [Grandis TiDB Website](https://github.com/ayd-jamesjr/grandis-tidb-website)
+**PHP · JavaScript · TiDB Cloud · PDO**
+
+A business website project within the Grandis / Greatness venture ecosystem, using a database-backed architecture and practical business enquiry functionality.
+
+### 💻 Personal projects
+
+- [**Devcard**](https://github.com/ayd-jamesjr/devcard) — PHP-based developer portfolio application.
+- [**Inzozi Café**](https://github.com/ayd-jamesjr/inzozi-cafe) — Responsive café website concept built with HTML, CSS and JavaScript.
+
+### 🤝 Fellowship & community
+
+- [**Kingdom Crew**](https://github.com/ayd-jamesjr/kingdom-crew) — Digital platform for the Kingdom Crew fellowship community at UNILAK Rwamagana Campus.
+
+### 🔒 Client work
+
+I also develop client-focused digital solutions. Private client repositories and confidential project information are intentionally not published. Public case studies are shared only where permission allows.
+
+---
+
+## 💼 Freelance services
+
+I’m building experience and taking on suitable projects in:
+
+- Responsive business and portfolio websites.
+- Frontend development and website improvements.
+- PHP and Node.js application features.
+- Database integration and CRUD workflows.
+- Contact forms, enquiry workflows and admin interfaces.
+- API integration and AI-powered website features.
+- Website maintenance, bug fixes and deployment support.
+
+For each engagement, I aim to define the scope, deliverables, timeline, dependencies and handover clearly. I do not claim expertise in tools or services beyond the work I can demonstrate.
+
+## 🎯 Current development priorities
+
+- Strengthen full-stack engineering and software architecture.
+- Improve testing, accessibility, security and production readiness.
+- Build reliable database-backed applications and integrations.
+- Develop useful AI-enabled products with clear limitations and human oversight.
+- Turn Grandis / Greatness ideas into sustainable, well-managed digital businesses.
+- Build a strong, evidence-based portfolio through shipped projects and documented outcomes.
+
+## 📬 Connect
+
+- **GitHub:** [@ayd-jamesjr](https://github.com/ayd-jamesjr)
+- **Portfolio:** [Explore my repositories](https://github.com/ayd-jamesjr?tab=repositories)
+- **Freelance enquiries:** Open an issue or contact me through GitHub.
+
+---
+
+*Building with purpose. Learning through delivery. Creating for the long term.*
